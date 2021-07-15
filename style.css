@@ -1,0 +1,17 @@
+.football{
+    background-color: blue;
+    display: flex;
+    font-weight: 900;
+}
+img{
+    width: 100%;
+    margin-left: 10px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
