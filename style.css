@@ -1,3 +1,7 @@
+@media(max-width:700px)
+
+
+
 .football{
     background-color: blue;
     display: flex;
@@ -17,4 +21,22 @@ img{
     color: white;
     font-weight: 700;
     border-radius: 5px;
+    transition: steps();
+}
+@media(min-width:900px)
+
+.photo-album{
+    display: flex;
+}
+.photo-adjust{
+    display: flex;
+}
+.photo-frame{
+    width: 300px;
+    height: 200px;
+    border: 2px;
+    margin: 10px;
+}
+.icon{
+    width: 100%;
 }
