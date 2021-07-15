@@ -2,10 +2,13 @@
     background-color: blue;
     display: flex;
     font-weight: 900;
-}
+    }
+    .paragraph{
+        padding-left: 20px;
+        padding-top: 80px;
+    }
 img{
     width: 100%;
-    margin-left: 10px;
 }
 .link-button{
     text-decoration: none;
